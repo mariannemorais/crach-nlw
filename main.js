@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'mariannemorais',
   youtube: 'maykbrito',
   facebook: 'marianne.fernandesdemorais',
-  instagram: '_morais.marianne',
+  instagram: '_moraismarianne',
   twitter: '_mariannemf'
 }
 
