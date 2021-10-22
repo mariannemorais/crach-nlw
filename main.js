@@ -14,12 +14,6 @@ function changeSocialMediaLinks() {
   }
 }
 
-// i = i + 1
-// i++
-
-// ser humano 12345678910
-//um computador 0123456789
-
 changeSocialMediaLinks()
 
 function getGitHubProfileInfos() {
